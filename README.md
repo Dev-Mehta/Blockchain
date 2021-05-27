@@ -12,7 +12,8 @@ pip install -r requirements.txt
 
 
 ## Run the server
-```python blockchain.py <- runs at port 5000
+```
+python blockchain.py <- runs at port 5000
 python blockchain.py -p 5001
 python blockchain.py --port 5002
 ```
