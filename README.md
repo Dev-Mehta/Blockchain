@@ -27,4 +27,4 @@ python blockchain.py --port 5002
 | `/nodes/register` | Register a new node to the network with unique identifier |
 | `/nodes/resolve` | Implement the Consensus algorithm and get the current state of full chain to the client making the request |
 
-You can learn how to create your own blockchain with python and flask here.
+You can learn [how to create your own blockchain with python and flask here](https://simplifiedweb.netlify.app/learn-blockchain-by-building-one-of-your-own-with-python/).
